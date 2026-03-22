@@ -3,7 +3,7 @@
         "laravel-boost": {
             "command": "wsl.exe",
             "args": [
-                "/usr/bin/php8.4",
+                "/usr/bin/php8.5",
                 "/home/vadimushka_d/Projects/personal/expense-tracker-v2/artisan",
                 "boost:mcp"
             ]
